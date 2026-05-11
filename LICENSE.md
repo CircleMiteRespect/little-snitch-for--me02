@@ -1,4 +1,4 @@
-# 
+# professional Little Snitch for macOS Extension | password-sharing + encryption offers the most advanced Little Snitch for macOS extension, with password-sharing and encryption.
 
 
 
